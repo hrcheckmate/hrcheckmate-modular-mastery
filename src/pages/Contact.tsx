@@ -46,12 +46,12 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6" />,
       title: 'Phone',
-      details: '+1 (555) 123-4567',
+      details: '+1 (817) 600-xxxx',
     },
     {
       icon: <MapPin className="h-6 w-6" />,
       title: 'Office',
-      details: '123 Tech Lane, San Francisco, CA 94103',
+      details: '4020 N MacArthur Blvd Suite 122 Irving, TX 75038'
     },
   ];
 
